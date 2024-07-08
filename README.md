@@ -20,9 +20,7 @@ I graduated with a B.Tech in Information Technology in 2023 and am eager to appl
 <img height="30" width="30" style='object-fit:contain' src="https://banner2.cleanpng.com/20180402/csq/kisspng-css3-cascading-style-sheets-computer-icons-html-emblem-5ac245f0d27847.8044648115226813288621.jpg">
 <img height="30" width="30" style='object-fit:contain' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPHQUeabRDH5SBUWiPBKck3K6EYOKk0cxivw&s">
 <img height="30" width="30" style='object-fit:contain' src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png">
-<div style="height:20px, width:20px, flex, justify-content:center, align-items:center">
-<img height=90% width=90% src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPADMLLAyozV3yHDW7-OJiDTrJp1Et4r8DwQ&s">
-<div>
+<img height="30" width="30" style='object-fit:contain' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPADMLLAyozV3yHDW7-OJiDTrJp1Et4r8DwQ&s">
 <img height="30" width="30" style='object-fit:contain' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1-ApLTW8KfU-1uu7jO4SRskzi7bbQie6eMQ&s">
 <img height="30" width="60" style='object-fit:contain' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHzhiBCKHo7mIImBkNqbVA7jAizJ4-sXxdxA&s">
 
