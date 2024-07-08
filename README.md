@@ -1,4 +1,4 @@
-<p align="center" width="100%">
+<p align="center" width="100%" height="40%">
   <img width="33%" src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/welcome-header.gif" />
 </p>
 
