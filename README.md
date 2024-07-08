@@ -8,12 +8,14 @@ I graduated with a B.Tech in Information Technology in 2023 and am eager to appl
 
 💻Previously worked at [Happiest Minds Technologies](https://www.happiestminds.com/)
 <div>🍀I'm currently learning Next.js, and TypeScript</div>
-<p>💡I'm looking forward to learning Angular.</p>
-<p>😄Pronouns: he/him</p>
+<div>💡I'm looking forward to learning Angular.</div>
+<div>😄Pronouns: he/him</div>
 
 <div>
-<img height="20" width="20" src="https://icon2.cleanpng.com/20180320/vgw/kisspng-angle-area-text-brand-other-html-5-5ab0c0871919f5.4460693115215330631028.jpg">
-<img height="20" width="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6jprmRYrNjV1zjbY9xcuiLwG6NZhJ21z_4g&s">
-
+<img height="30" width="30" src="https://icon2.cleanpng.com/20180320/vgw/kisspng-angle-area-text-brand-other-html-5-5ab0c0871919f5.4460693115215330631028.jpg">
+<img height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6jprmRYrNjV1zjbY9xcuiLwG6NZhJ21z_4g&s">
+<img height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOJnmLpgWHeDOXireAPVxm8P2zkYPf8QGpuw&s">
+<img height="30" width="30" src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png">
+<img height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhaBf2b5f3lOk7z1MziM9s3O66G1x0pvexQ&s">
 </div>
 Feel free to check out my repositories and connect with me!
