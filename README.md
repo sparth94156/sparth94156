@@ -22,9 +22,9 @@ I graduated with a B.Tech in Information Technology in 2023 and am eager to appl
 <img height="30" width="30" style='object-fit:contain' src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png">
 <img height="30" width="30" style='object-fit:contain' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPADMLLAyozV3yHDW7-OJiDTrJp1Et4r8DwQ&s">
 <img height="30" width="30" style='object-fit:contain' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1-ApLTW8KfU-1uu7jO4SRskzi7bbQie6eMQ&s">
+<img height="30" width="30" style='object-fit:contain' src="https://logotyp.us/file/typescript.svg">
 <img height="30" width="60" style='object-fit:contain' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHzhiBCKHo7mIImBkNqbVA7jAizJ4-sXxdxA&s">
 <img height="30" width="30" style='object-fit:contain' src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png">
-
 </div>
 <br/>
 Feel free to check out my repositories and connect with me!
