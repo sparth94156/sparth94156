@@ -5,6 +5,7 @@
 I graduated with a B.Tech in Information Technology in 2023 and am eager to apply my skills to real-world projects and collaborate with like-minded developers. When I'm not coding, you can find me exploring the latest in tech or contributing to open-source projects.
 
 💻Previously worked at [Happiest Minds Technologies](https://www.happiestminds.com/)
+
 Currently working as a Web Development Intern at [SKYXWTF]
 
 <div>🍀I'm currently learning Next.js, and TypeScript</div>
