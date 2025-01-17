@@ -6,7 +6,7 @@ I graduated with a B.Tech in Information Technology in 2023 and am eager to appl
 
 💻Previously worked at [Happiest Minds Technologies](https://www.happiestminds.com/)
 
-Currently working as a Frontend Developer at [Sodio Technologies](https://sodio.tech/)
+👨‍💻Currently working as a Frontend Developer at [Sodio Technologies](https://sodio.tech/)
 
 <div>🍀I'm currently learning Node.js, and TypeScript</div>
 <div>💡I'm looking forward to learning Angular.</div>
