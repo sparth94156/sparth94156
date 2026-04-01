@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://github.com/sparth94156">
-    <img src="https://komarev.com/ghpvc/?username=parthsinghpal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=sparth94156&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
   <a href="https://github.com/sparth94156?tab=followers">
-    <img src="https://img.shields.io/github/followers/parthsinghpal?label=Followers&style=flat&color=0e75b6" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/sparth94156?label=Followers&style=flat&color=0e75b6" alt="Followers" />
   </a>
 </p>
 
@@ -31,18 +31,18 @@ I'm a passionate **Frontend Developer** specializing in building dynamic, respon
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthsinghpal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sparth94156&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthsinghpal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparth94156&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sparth94156&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sparth94156&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
+</p> -->
 
 ---
 
@@ -85,7 +85,7 @@ I'm a passionate **Frontend Developer** specializing in building dynamic, respon
 > ⭐ Check out my repositories below — feel free to explore, star, or contribute!
 
 <p align="center">
-  <a href="https://github.com/parthsinghpal?tab=repositories">
+  <a href="https://github.com/sparth94156?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Repositories-%230e75b6?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
