@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/parthsinghpal">
+  <a href="https://github.com/sparth94156">
     <img src="https://komarev.com/ghpvc/?username=parthsinghpal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
-  <a href="https://github.com/parthsinghpal?tab=followers">
+  <a href="https://github.com/sparth94156?tab=followers">
     <img src="https://img.shields.io/github/followers/parthsinghpal?label=Followers&style=flat&color=0e75b6" alt="Followers" />
   </a>
 </p>
@@ -37,11 +37,11 @@ I'm a passionate **Frontend Developer** specializing in building dynamic, respon
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthsinghpal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sparth94156&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parthsinghpal&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sparth94156&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
@@ -49,6 +49,7 @@ I'm a passionate **Frontend Developer** specializing in building dynamic, respon
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -59,10 +60,12 @@ I'm a passionate **Frontend Developer** specializing in building dynamic, respon
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Backend & Database
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Languages & Tools
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -72,7 +75,7 @@ I'm a passionate **Frontend Developer** specializing in building dynamic, respon
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthsinghpal&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sparth94156&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -92,13 +95,13 @@ I'm a passionate **Frontend Developer** specializing in building dynamic, respon
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/parthsinghpal" target="_blank">
+  <a href="https://www.linkedin.com/in/parth-singh-pal-208636227/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:sparth94156@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/parthsinghpal">
+  <a href="https://github.com/sparth94156">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
