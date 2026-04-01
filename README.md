@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Parth Singh Pal 👋</h1>
 
 <p align="center">
-  <em>Frontend Developer · React & TypeScript Enthusiast · Open Source Contributor</em>
+  <em>Frontend Developer · React & TypeScript Enthusiast</em>
 </p>
 
 <p align="center">
@@ -30,11 +30,11 @@ I'm a passionate **Frontend Developer** specializing in building dynamic, respon
 
 ## 📊 GitHub Activity
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sparth94156&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparth94156&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sparth94156&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
