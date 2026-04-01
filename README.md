@@ -1,33 +1,112 @@
-# About Me
+<h1 align="center">Hi there, I'm Parth Singh Pal 👋</h1>
 
-👋 Hi, I'm Parth Singh Pal, a passionate front-end developer specializing in building dynamic and responsive web applications. With a strong foundation in web technologies and a keen interest in modern JavaScript frameworks, I love turning ideas into interactive digital experiences.
+<p align="center">
+  <em>Frontend Developer · React & TypeScript Enthusiast · Open Source Contributor</em>
+</p>
 
-I graduated with a B.Tech in Information Technology in 2023 and am eager to apply my skills to real-world projects and collaborate with like-minded developers. When I'm not coding, you can find me exploring the latest in tech or contributing to open-source projects.
+<p align="center">
+  <a href="https://github.com/parthsinghpal">
+    <img src="https://komarev.com/ghpvc/?username=parthsinghpal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/parthsinghpal?tab=followers">
+    <img src="https://img.shields.io/github/followers/parthsinghpal?label=Followers&style=flat&color=0e75b6" alt="Followers" />
+  </a>
+</p>
 
-💻Previously worked at [Happiest Minds Technologies](https://www.happiestminds.com/)
+---
 
-👨‍💻Currently working as a Frontend Developer at [Sodio Technologies](https://sodio.tech/)
+## 👨‍💻 About Me
 
-<div>🍀I'm currently learning Node.js, and TypeScript</div>
-<div>💡I'm looking forward to learning Angular.</div>
-<div>😄Pronouns: he/him</div>
-<br/>
+I'm a passionate **Frontend Developer** specializing in building dynamic, responsive, and user-centric web applications. With a strong foundation in modern JavaScript frameworks and a sharp eye for clean UI, I love turning ideas into polished digital experiences.
 
-# 🛠️ Technologies & Skills
+- 🎓 B.Tech in Information Technology (2023)
+- 💼 Previously at **[Happiest Minds Technologies](https://www.happiestminds.com/)**
+- 🚀 Currently a **Frontend Developer** at **[Sodio Technologies](https://sodio.tech/)**
+- 🌱 Currently leveling up in **Node.js** and **TypeScript**
+- 💡 Next on my radar: **Angular**
+- 😄 Pronouns: **he/him**
 
-<p>My Toolkit includes & is not limited to</p>
+---
 
-<div>
-<img height="30" width="30" style='object-fit:contain' title="HTML5" src="https://w7.pngwing.com/pngs/410/100/png-transparent-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-text.png">
-<img height="30" width="30" style='object-fit:contain' title="CSS3" src="https://w7.pngwing.com/pngs/473/634/png-transparent-css-hd-logo.pngp">
-<img height="30" width="30" style='object-fit:contain' title="Javascript" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPHQUeabRDH5SBUWiPBKck3K6EYOKk0cxivw&s">
-<img height="30" width="30" style='object-fit:contain' title="React.js" src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png">
-<img height="30" width="30" style='object-fit:contain' title="Redux" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPADMLLAyozV3yHDW7-OJiDTrJp1Et4r8DwQ&s">
-<img height="30" width="30" style='object-fit:contain' title="Tailwind CSS" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1-ApLTW8KfU-1uu7jO4SRskzi7bbQie6eMQ&s">
-<img height="30" width="30" style='object-fit:contain' title="Typescript" src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png">
-<img height="30" width="60" style='object-fit:contain' title="Next.js" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHzhiBCKHo7mIImBkNqbVA7jAizJ4-sXxdxA&s">
-<img height="30" width="75" style='object-fit:contain' title="MongoDB" src="https://imgs.search.brave.com/X7SlPQYrHWYpNnr_AFBsU5krfUmTVSZ1wPf_uLbAQHw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbHVz/cG5nLmNvbS9pbWct/cG5nL2xvZ28tbW9u/Z29kYi1wbmctc3Rh/bmRhcmQtbG9nby00/MTY3LmpwZw">
-<img height="30" width="30" style='object-fit:contain' title="C++" src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png">
-</div>
-<br/>
-Feel free to check out my repositories and connect with me!
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parthsinghpal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthsinghpal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthsinghpal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=parthsinghpal&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Languages & Tools
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthsinghpal&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 📌 Pinned Highlights
+
+> ⭐ Check out my repositories below — feel free to explore, star, or contribute!
+
+<p align="center">
+  <a href="https://github.com/parthsinghpal?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-%230e75b6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/parthsinghpal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/parthsinghpal">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</p>
+
+<p align="center"><em>✨ "Code is like humor. When you have to explain it, it's bad." — Cory House</em></p>
