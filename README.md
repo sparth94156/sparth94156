@@ -18,8 +18,8 @@ I graduated with a B.Tech in Information Technology in 2023 and am eager to appl
 <p>My Toolkit includes & is not limited to</p>
 
 <div>
-<img height="30" width="30" style='object-fit:contain' title="HTML5" src="https://banner2.cleanpng.com/lnd/20241023/og/447ca5f4935dcd877fe1e21af7c802.webp">
-<img height="30" width="30" style='object-fit:contain' title="CSS3" src="https://banner2.cleanpng.com/20180816/rcw/b0f2f0065cdc7d623eb330a9288a8a66.webp">
+<img height="30" width="30" style='object-fit:contain' title="HTML5" src="https://w7.pngwing.com/pngs/410/100/png-transparent-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-text.png">
+<img height="30" width="30" style='object-fit:contain' title="CSS3" src="https://w7.pngwing.com/pngs/473/634/png-transparent-css-hd-logo.pngp">
 <img height="30" width="30" style='object-fit:contain' title="Javascript" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPHQUeabRDH5SBUWiPBKck3K6EYOKk0cxivw&s">
 <img height="30" width="30" style='object-fit:contain' title="React.js" src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png">
 <img height="30" width="30" style='object-fit:contain' title="Redux" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPADMLLAyozV3yHDW7-OJiDTrJp1Et4r8DwQ&s">
